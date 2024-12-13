@@ -52,7 +52,7 @@ This is the frontend of EduCare. Educare is a platform for managing multiple sch
 
 ## Images
 <div style="display: flex; flex-wrap: wrap; gap: 15px;">
-    <img src="Home1.png" alt="Home" width="250" height="200">
-    <img src="About1.png" alt="About" width="250" height="200">
-    <img src="Information1.png" alt="Information" width="250" height="200">
+    <img src="Home1.png" alt="Home" width="270" height="180">
+    <img src="About1.png" alt="About" width="270" height="180">
+    <img src="Information1.png" alt="Information" width="270" height="180">
 </div>
